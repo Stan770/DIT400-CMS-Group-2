@@ -1,0 +1,1 @@
+java -jar cms_java.jar
